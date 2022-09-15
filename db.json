@@ -1,0 +1,37 @@
+{
+    "users": [
+      {
+        "name": "Viren",
+        "age": "23",
+        "place": "Gandhibari",
+        "batch": "WEB-14",
+        "profession": "FSD",
+        "id": 1
+      },
+      {
+        "name": "Viren",
+        "age": "23",
+        "place": "Gandhibari",
+        "batch": "WEB-14",
+        "profession": "FSD",
+        "id": 2
+      },
+      {
+        "name": "Viren",
+        "age": "23",
+        "place": "Gandhibari",
+        "batch": "WEB-14",
+        "profession": "FSD",
+        "id": 3
+      },
+      {
+        "name": "Viren",
+        "age": "23",
+        "place": "Gandhibari",
+        "batch": "WEB-14",
+        "profession": "FSD",
+        "id": 4
+      }
+
+    ]
+  }
